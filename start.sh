@@ -1,7 +1,7 @@
 #!/bin/sh
 
 PORT=53855
-UUID=73b35ffa-c806-471a-83ad-651d6ee53a71
+UUID=a72d6a41-5789-48fe-8a2a-f2e97b6d1702
 WebPage=https://bing.com
 CaddyConfig=https://raw.githubusercontent.com/pythonplaygame/nort/main/etc/Caddyfile
 XRayConfig=https://raw.githubusercontent.com/pythonplaygame/nort/main/etc/xray.json
